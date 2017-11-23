@@ -1,5 +1,5 @@
 //Do Not Forget to change the package
-package com.bharathksunilk.mydailerapp;
+package com.deepikas53.mydailerapp;
 
 import android.app.Activity;
 import android.content.Intent;

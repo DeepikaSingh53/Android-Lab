@@ -1,4 +1,4 @@
-package com.bharathksunilk.smsreceiver;
+﻿package com.deepikas53.smsreceiver;
 
 import android.app.Notification;
 import android.app.NotificationManager;

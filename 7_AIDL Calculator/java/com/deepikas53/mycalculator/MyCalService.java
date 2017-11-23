@@ -1,4 +1,4 @@
-package com.bharathksunilk.mycalculator;
+package com.deepikas53.mycalculator;
 
 import android.app.Service;
 import android.content.Intent;

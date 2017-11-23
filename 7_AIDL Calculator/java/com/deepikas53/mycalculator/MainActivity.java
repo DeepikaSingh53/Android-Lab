@@ -1,4 +1,4 @@
-package com.bharathksunilk.mycalculator;
+package com.deepikas53.mycalculator;
 
 import android.app.Activity;
 import android.content.ComponentName;

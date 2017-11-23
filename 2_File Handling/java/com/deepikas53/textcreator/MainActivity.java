@@ -1,4 +1,4 @@
-package com.bharathksunilk.textcreator;
+package com.deepikas53.textcreator;
 
 import android.app.Activity;
 import android.content.DialogInterface;

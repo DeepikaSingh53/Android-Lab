@@ -1,5 +1,5 @@
 //Do Not Forget to change the package
-package com.bharathksunilk.smsreceiver;
+package com.deepikas53.smsreceiver;
 
 import android.app.Activity;
 import android.os.Bundle;

@@ -1,5 +1,5 @@
 //Do Not Forget to change the change the package
-package com.bharathksunilk.serviceandnotificationdemo;
+package com.deepikas53.serviceandnotificationdemo;
 
 import android.app.Notification;
 import android.app.NotificationManager;

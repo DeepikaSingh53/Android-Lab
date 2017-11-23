@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bharathksunilk.counterapp">
+    package="com.deepikas53.counterapp">
 
     <application
         android:allowBackup="true"

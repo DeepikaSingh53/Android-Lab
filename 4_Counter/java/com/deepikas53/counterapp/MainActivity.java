@@ -1,5 +1,5 @@
 //Do Not Forget to change your package
-package com.bharathksunilk.counterapp;
+package com.deepikas53.counterapp;
 
 import android.app.Activity;
 import android.os.Bundle;
